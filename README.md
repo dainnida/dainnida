@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F3E5F5,100:CE93D8)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D1BEE5&size=35&center=true&vCenter=true&width=430&height=40&lines=Hi+there+👋+I'm+Dain+💜)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D1BEE5&size=35&center=true&vCenter=true&width=430&height=42&lines=Hi+there+👋+I'm+Dain+💜)](https://git.io/typing-svg)
 </div>
 </br>
 
