@@ -1,7 +1,8 @@
-<div align=center>
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F3E5F5,100:F3E5F5)
+</div>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D1BEE5&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there+👋+I'm+Dain+💜+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </div>
 
