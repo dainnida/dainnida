@@ -4,9 +4,10 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D1BEE5&size=35&center=true&vCenter=true&width=404&height=53&lines=Hi+there+👋+I'm+Dain+💜+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </div>
+</br>
 
 <h3 align="center">📚 Studying... 📚</h3>
-- - -
+<hr/>
 <div align="center">
   <img src="https://img.shields.io/badge/SpringBoot-339933?style=flat&logo=SpringBoot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />&nbsp
@@ -24,9 +25,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />&nbsp
 </div>
+</br>
 
 <h3 align="center">📫 Contact 📫</h3>
-- - -
+<hr/>
 <div align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />&nbsp
