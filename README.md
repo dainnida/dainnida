@@ -39,6 +39,9 @@
     <img
       src="https://img.shields.io/badge/dain0928@g.hongik.ac.kr-D14836?style=flat&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />&nbsp
+  </a>
 </div>
 
 
