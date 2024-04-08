@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F3E5F5,100:F3E5F5)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D1BEE5&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Dain👋💜+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D1BEE5&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Dain 👋💜+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <!--
 **dainnida/dainnida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
