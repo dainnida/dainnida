@@ -30,7 +30,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <hr/>
 <div align="center">
-  <a href="">
+
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />&nbsp
   <a href="https://velog.io/@dainnida/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat&logo=velog&logoColor=white" />&nbsp
