@@ -32,14 +32,14 @@
 <div align="center">
   <a href="https://velog.io/@dainnida/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat&logo=velog&logoColor=white"/>
-  </a>&nbsp
+  </a>
   <a href="mailto:dain0928@g.hongik.ac.kr">
     <img
       src="https://img.shields.io/badge/dain0928@g.hongik.ac.kr-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>&nbsp
+  </a>
   <a href="">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/>
-  </a>&nbsp
+  </a>
 </div>
 
 
