@@ -11,9 +11,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SpringBoot-339933?style=flat&logo=SpringBoot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">&nbsp
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray">&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">&nbsp
   <!--
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
