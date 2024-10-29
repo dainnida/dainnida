@@ -6,6 +6,15 @@
 </div>
 </br>
 
+<h3 align="center">🔮 Profile 🔮</h3>
+<hr/>
+- 홍익대학교 컴퓨터공학과 재학 <sub>(2021.03 ~ )</sub> </br>
+- 홍익대학교 멋쟁이사자처럼 11기 - Backend 아기사자 <sub>(2023.03 ~ 2023.12)</sub> </br>
+- 홍익대학교 멋쟁이사자처럼 12기 - BE 운영진 <sub>(2024.3 ~ )</sub> </br>
+- 홍익대학교 멋쟁이사자처럼X총학생회 대동제 사이트 - BE <sub>(2024.07 ~ 2023.09)</sub>
+<br>
+<br>
+
 <h3 align="center">📚 Studying... 📚</h3>
 <hr/>
 <div align="center">
